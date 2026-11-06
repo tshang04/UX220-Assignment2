@@ -1,0 +1,11 @@
+:root {
+  --main-background: hotpink;
+  --main-foreground: silver;
+  --pane-padding: 5px 42px;
+}
+
+body {
+  background-color: var(--main-background);
+  color: var(--main-foreground);
+  padding: var(--pane-padding);
+}
